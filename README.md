@@ -1,6 +1,6 @@
 # CSE102L – Computer Programming II Laboratory
 
-Akdeniz University, Department of Computer Engineering
+Akdeniz University - Department of Computer Engineering
 Course: CSE102L (Computer Programming II Lab)
 Language: Java
 
